@@ -40,7 +40,6 @@ yarn install
 # run app
 npm start
 ```
-```
 
 ## Facial recognition authentication
 
