@@ -68,3 +68,5 @@ The security of a web application is an important topic to discuss and consider.
 FaceIO follows some important and serious security guidelines for user data protection. FaceIO hashes all the unique facial data of the user along with the payload we specified earlier. So the stored information is nothing but some random strings which can't be reverse engineered.
 
 FaceIO outlines some very important [security guidelines](https://faceio.net/security-best-practice) for developers. Their security guide focuses on adding a strong pin code to protect user data. FaceIO also rejects covered faces so that no one can impersonate someone else.
+
+### Author: F.O.G_ntp(nguyenthanhphong)
