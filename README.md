@@ -1,4 +1,4 @@
-## FaceIO-Authentication
+## FaceIO-Authentication 👨‍💻
 
 ### Face-Auth UI
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/99815527/194789250-325a00e8-6a21-4496-926d-3e837c94da76.png">
